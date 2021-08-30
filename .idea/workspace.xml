@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="014cf107-b9d6-49bc-8544-ff4c08ba3667" name="Default Changelist" comment="shouldConvert1ToI(fails)" />
+    <list default="true" id="014cf107-b9d6-49bc-8544-ff4c08ba3667" name="Default Changelist" comment="shouldConvert1ToI(passess)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +30,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RunManager" selected="JUnit.ConvertToRomanTest">
@@ -67,6 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630049062534</updated>
+      <workItem from="1630304412652" duration="325000" />
     </task>
     <task id="LOCAL−00001" summary="ConvertRomanStarter">
       <created>1630049334131</created>
@@ -86,8 +89,23 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1630049758424</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="shouldConvert1ToI(passes)">
+      <created>1630304665855</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1630304665855</updated>
+    </task>
+    <task id="LOCAL−00005" summary="shouldConvert1ToI(passess)">
+      <created>1630304708212</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1630304708212</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -99,10 +117,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ConvertRomanStarter" />
     <MESSAGE value="shouldConvert1ToI(fails)" />
-    <option name="LAST_COMMIT_MESSAGE" value="shouldConvert1ToI(fails)" />
+    <MESSAGE value="shouldConvert1ToI(passes)" />
+    <MESSAGE value="shouldConvert1ToI(passess)" />
+    <option name="LAST_COMMIT_MESSAGE" value="shouldConvert1ToI(passess)" />
   </component>
 </project>
